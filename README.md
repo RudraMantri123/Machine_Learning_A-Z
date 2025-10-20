@@ -7,7 +7,7 @@
 
 This repository contains a comprehensive collection of machine learning algorithms, implementations, and datasets covering the complete spectrum from basic concepts to advanced deep learning techniques. All code is implemented in **Python** with Jupyter notebooks for interactive learning and standalone Python scripts for production use.
 
-## 📚 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Repository Structure](#repository-structure)
@@ -20,7 +20,7 @@ This repository contains a comprehensive collection of machine learning algorith
 - [Contributing](#contributing)
 - [License](#license)
 
-## 🎯 Overview
+## Overview
 
 This repository is based on the popular "Machine Learning A-Z" course and provides hands-on implementations of various machine learning algorithms. Each section includes:
 
@@ -29,7 +29,7 @@ This repository is based on the popular "Machine Learning A-Z" course and provid
 - **Sample Datasets** (`.csv`, `.tsv`) for testing and experimentation
 - **Visualization Images** and results
 
-## 🏗️ Repository Structure
+## Repository Structure
 
 ```
 Machine-Learning-A-Z-Codes-Datasets/
@@ -45,7 +45,7 @@ Machine-Learning-A-Z-Codes-Datasets/
 └── Part 10 - Model Selection and Boosting/
 ```
 
-## 🔧 Prerequisites
+## Prerequisites
 
 Before running the code, ensure you have the following installed:
 
@@ -53,7 +53,7 @@ Before running the code, ensure you have the following installed:
 - **Jupyter Notebook/Lab**
 - **Essential Libraries** (see Installation section)
 
-## 📦 Installation
+## Installation
 
 1. **Clone the repository**:
    ```bash
@@ -76,7 +76,7 @@ Before running the code, ensure you have the following installed:
    jupyter notebook
    ```
 
-## 📋 Content Overview
+## Content Overview
 
 ### Part 1: Data Preprocessing
 - **Section 2**: Data Preprocessing Tools
@@ -136,7 +136,7 @@ Before running the code, ensure you have the following installed:
   - K-Fold Cross Validation
 - **Section 49**: XGBoost
 
-## 🚀 How to Use This Repository
+## How to Use This Repository
 
 1. **Start with Data Preprocessing**: Begin with Part 1 to understand data handling basics
 2. **Choose Your Algorithm**: Navigate to the relevant section based on your problem type
@@ -144,7 +144,7 @@ Before running the code, ensure you have the following installed:
 4. **Run Python Scripts**: Use `.py` files for quick execution
 5. **Experiment with Datasets**: Modify parameters and try different datasets
 
-## 🧮 Algorithm Categories
+## Algorithm Categories
 
 ### Supervised Learning
 - **Regression**: Predicting continuous values
@@ -167,7 +167,7 @@ Before running the code, ensure you have the following installed:
   - ANN, CNN
 - **Natural Language Processing**: Text analysis and processing
 
-## 📊 Datasets
+## Datasets
 
 This repository includes various datasets for different algorithms:
 
@@ -182,17 +182,17 @@ This repository includes various datasets for different algorithms:
 - **Churn_Modelling.csv**: For deep learning
 - **Wine.csv**: For dimensionality reduction
 
-## 📈 Key Features
+## Key Features
 
-- ✅ **Complete Python Implementation**: All algorithms implemented from scratch
-- ✅ **Jupyter Notebooks**: Interactive learning environment
-- ✅ **Comprehensive Datasets**: Ready-to-use sample data
-- ✅ **Visualizations**: Charts and plots for better understanding
-- ✅ **Best Practices**: Clean, documented, and efficient code
-- ✅ **Production Ready**: Standalone Python scripts
-- ✅ **Beginner Friendly**: Step-by-step implementations
+- **Complete Python Implementation**: All algorithms implemented from scratch
+- **Jupyter Notebooks**: Interactive learning environment
+- **Comprehensive Datasets**: Ready-to-use sample data
+- **Visualizations**: Charts and plots for better understanding
+- **Best Practices**: Clean, documented, and efficient code
+- **Production Ready**: Standalone Python scripts
+- **Beginner Friendly**: Step-by-step implementations
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python 3.x**
 - **NumPy**: Numerical computing
@@ -202,7 +202,7 @@ This repository includes various datasets for different algorithms:
 - **TensorFlow/Keras**: Deep learning
 - **Jupyter**: Interactive development
 
-## 📝 Usage Examples
+## Usage Examples
 
 ### Running a Jupyter Notebook
 ```bash
@@ -214,7 +214,7 @@ jupyter notebook "Part 2 - Regression/Section 4 - Simple Linear Regression/Pytho
 python "Part 3 - Classification/Section 14 - Logistic Regression/Python/logistic_regression.py"
 ```
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
@@ -224,17 +224,17 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📞 Support
+## Support
 
-If you find this repository helpful, please consider giving it a ⭐️ star!
+If you find this repository helpful, please consider giving it a star!
 
 For questions or support, please open an issue in the repository.
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Based on the Machine Learning A-Z course
 - Inspired by the machine learning community
@@ -242,6 +242,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Happy Learning! 🚀**
+**Happy Learning!**
 
 *"The best way to learn machine learning is by doing machine learning."*
